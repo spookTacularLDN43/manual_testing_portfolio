@@ -17,7 +17,7 @@
 
 3.
 ![Third bug](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/814c219079c066fc76c9c64c14ea1a7668b382e9/SZPEJ-3.png)
-![SZPEJ-3 attachment.png](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/7f72485c2db2650dafb76643b1040232daf79cf5/SZPEJ-3%20attachment.png)
+![SZPEJ-3 attachment.png](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/b6adda0b70cd6c800642b4520b201cefdcce1cf5/SZPEJ-3%20attachment.png)
 
 
 4.
