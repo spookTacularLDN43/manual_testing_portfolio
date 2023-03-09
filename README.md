@@ -6,3 +6,4 @@
 
 1. 
 ![First bug](SZPEJ-1.png)
+![attachment](SZPEJ-1 attachment.png)
