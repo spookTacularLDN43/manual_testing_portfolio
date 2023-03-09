@@ -22,4 +22,4 @@
 
 4.
 ![Fourth bug](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/813581160dd2ae5bac0b215304e516e628283055/SZPEJ-4.png)
-![SZPEJ-4 attachment.png](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/7f72485c2db2650dafb76643b1040232daf79cf5/SZPEJ-4%20attachment.png)
+![SZPEJ-4 attachment.png](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/04ffec49a2db2c236b4beefa8200149d9059f4ff/SZPEJ-4%20attachment.png)
