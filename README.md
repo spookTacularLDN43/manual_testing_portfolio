@@ -33,7 +33,7 @@
 
 2. Status - failed. 
 
-![Second registration test case](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/0e892920810aa00368d8830e65855841a9e12e16/Registration%20test%20case%20C11%20%232.png)
+![Second registration test case](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/26ef03c2146ea3bbb8a7da2a88cc71869ae2e68b/Registration%20test%20case%20C11%20%23.png)
 
 
 
