@@ -26,7 +26,7 @@
 
 5. (failed test case - C11)
 ![Fifth bug](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/75198f6bb628045fccaaf4be1497ae0da8b089bc/SZPEJ-5%20(test%20case%20C11%20related).png)
-![SZPEJ-5 attachment](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/6ebd7cf0cc8403a1587c5d36fe90252225d78e1a/Screen%20rec-%20SZPEJ-5.mp4)
+[SZPEJ-5 attachment](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/6ebd7cf0cc8403a1587c5d36fe90252225d78e1a/Screen%20rec-%20SZPEJ-5.mp4)
 
 
 ### Sample test cases for www.szpeje.com website:
