@@ -31,5 +31,5 @@
 
 ### Sample bug report for http://www.handmaderki.pl website:
 
-
+![bug](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/56d7cb0d0cad4ccb78dbef695be36b91b0421d9f/VAR-1.png)
 
