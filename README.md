@@ -29,5 +29,7 @@
 [SZPEJ-5 attachment](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/7bfc64ea417b092044d55f814b2a1574ebb7718d/szpej-5%20screen.mp4)
 
 
+### Sample bug report for http://www.handmaderki.pl website:
+
 
 
