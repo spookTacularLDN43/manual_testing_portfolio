@@ -32,4 +32,4 @@
 ### Sample bug report for http://www.handmaderki.pl website:
 
 ![bug](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/56d7cb0d0cad4ccb78dbef695be36b91b0421d9f/VAR-1.png)
-
+![VAR-1 attachment CSS](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/481074cc45349e039f0236ad39e6a678e51276ba/VAR-1%20attachment.png)
