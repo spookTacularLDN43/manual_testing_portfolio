@@ -21,7 +21,7 @@
 
 
 4. Content
-![Fourth bug](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/813581160dd2ae5bac0b215304e516e628283055/SZPEJ-4.png)
+![Fourth bug](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/8442f595aab1b4f6a0afe4947e40fa45ba9d5cc1/SZPEJ-4.png)
 ![SZPEJ-4 attachment.png](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/04ffec49a2db2c236b4beefa8200149d9059f4ff/SZPEJ-4%20attachment.png)
 
 5. Functional
