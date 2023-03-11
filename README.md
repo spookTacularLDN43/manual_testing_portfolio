@@ -25,7 +25,7 @@
 ![SZPEJ-4 attachment.png](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/04ffec49a2db2c236b4beefa8200149d9059f4ff/SZPEJ-4%20attachment.png)
 
 5. Functional
-![Fifth bug](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/75198f6bb628045fccaaf4be1497ae0da8b089bc/SZPEJ-5%20(test%20case%20C11%20related).png)
+![Fifth bug](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/81f1590f472bb0688dfd50ae1aee517163ec70bc/SZPEJ-5.png)
 [SZPEJ-5 attachment](https://github.com/spookTacularLDN43/manual_testing_portfolio/blob/6ebd7cf0cc8403a1587c5d36fe90252225d78e1a/Screen%20rec-%20SZPEJ-5.mp4)
 
 
